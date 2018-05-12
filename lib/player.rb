@@ -7,5 +7,3 @@ class Player
 
 end
 
-# rspec spec/02_player_spec.rb
-# rspec spec/03_human_player_spec.rb
